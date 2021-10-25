@@ -73,21 +73,6 @@
             <version>1.2.17</version>
         </dependency>
         <dependency>
-            <groupId>com.cellvault</groupId>
-            <artifactId>cvcommon</artifactId>
-            <version>4.2.12</version>
-        </dependency>
-        <dependency>
-            <groupId>com.cellvault</groupId>
-            <artifactId>cvauthlib</artifactId>
-            <version>4.2.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.cellvault</groupId>
-            <artifactId>cvcommon-aws-4.0</artifactId>
-            <version>4.0.7</version>
-        </dependency>
-        <dependency>
             <groupId>javax.ws.rs</groupId>
             <artifactId>javax.ws.rs-api</artifactId>
             <version>2.0</version>
